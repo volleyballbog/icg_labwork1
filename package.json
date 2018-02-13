@@ -1,0 +1,19 @@
+{
+  "name": "labwork1",
+  "description": "labwork1",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icg2018/labwork1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icg2018/labwork1/issues"
+  },
+  "homepage": "https://github.com/icg2018/labwork1",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-html-validation": "^0.1.15"
+  }
+}
