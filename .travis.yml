@@ -10,3 +10,5 @@ before_install: npm install -g grunt-cli
 cache:
   directories:
     - node_modules
+notifications:
+  email: false
